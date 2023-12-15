@@ -4,7 +4,7 @@ import DashBoard from "../../components/demand/DashBoard";
 import DemandProductTable from "../../components/demand/DemandProductTable";
 import DemandReport from "../../components/demand/DemandReport";
 import DemandNav from "../../components/demand/DemandNav";
-import DemandNoticeTable from "../../components/demand/demandNoticeTable";
+import DemandNoticeTable from "../../components/demand/DemandNoticeTable";
 import demandAxios from "./BaseURL";
 
 function Demand() {
